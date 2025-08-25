@@ -1,4 +1,5 @@
-<h1>Hi 👋, I'm Duong</h1>
+<h1 align="center">Hi 👋, I'm Duong</h1>
+<h3 align="center">Nguyen Dinh Duong 20+</h3>
 - 📫 How to reach me **duongnd.hn1@gmail.com**
 - 🌱 I’m currently learning Web Development 
 
